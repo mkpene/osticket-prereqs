@@ -46,6 +46,6 @@ Once the installer was downloaded, I ran it and followed the installation wizard
 ![image](https://github.com/mkpene/osticket-prereqs/assets/142267681/6f0af408-ce3d-490e-94ac-32d09a427057)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+By this point in the installation process I created a new virtual host configuration for osTicket. I made sure to set the document root to the location where I extracted the osTicket files. With the web server ready, I opened my browser and navigated to the URL of my virtual host. This triggered osTicket's installation script. I followed the prompts, setting the appropriate database information (database name, user, password) when prompted. The script automatically created the necessary tables in the database. Inside the admin panel, I navigated to the settings section. I configured the basic settings like the support email address, organization details, and default ticket setting for the project guidelines.
 </p>
 <br />
