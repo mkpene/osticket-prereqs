@@ -38,7 +38,7 @@ At this point I had configured the virtual machine setup and went throught the p
 ![image](https://github.com/mkpene/osticket-prereqs/assets/142267681/fe2d6f1f-b6ed-4d4d-8072-da4ca548b59a)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the installer was downloaded, I ran it and followed the installation wizard's steps. I opted for the complete installation since I wanted access to all the features. During the setup, I was prompted to set a root password, which I made sure was strong and memorable. Also went ahead and configured the settings to be amiable with OS Ticket.
 </p>
 <br />
 
