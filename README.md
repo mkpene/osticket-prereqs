@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/mkpene/osticket-prereqs/assets/142267681/b5cf0da2-a2af-4e53-9f31-7f1cf1dac131)
 
 <p>
-At this point I had configured the virtual machine setup and went throught the process of installing OS ticket by enabling CGI and configuring the HTTP features in ISS. 
+After setting up a Windows virtual machine, I opened the "Add or Remove Programs" settings and turn on the "Internet Information Services" feature. This would install IIS on the system. Once IIS is installed, I opened the IIS Manager. From there, I navigated to the server node and selected "ISAPI and CGI Restrictions." I'd add a new restriction and specify the path to the CGI executable. 
 </p>
 <br />
 
